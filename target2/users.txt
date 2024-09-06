@@ -1,0 +1,7 @@
+frodo.baggins
+bilbo.baggins
+peregrin.took
+samwise.gamgee
+galadriel
+boromir
+gandalf

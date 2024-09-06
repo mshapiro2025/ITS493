@@ -1,0 +1,4 @@
+samwise:$apr1$R.L7LsBP$TNv9D0dzmEQYH4ca0FCbu/
+bilbo:$apr1$Aj5FYCT4$GH35UARNieTqD/LUhLZoW1
+frodo:$apr1$CDIMXHbx$KXfIwzybpL1GKC/0ROwQH/
+pippin:$apr1$7VFG2tlu$JSUufGJ5Zy6V.pUHNtIEM/
