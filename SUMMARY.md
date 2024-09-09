@@ -1,13 +1,7 @@
 # Table of contents
 
-* [SEC440: Systems Security](README.md)
-* [Network Redundancy](network-redundancy.md)
-* [Web and Proxy Redundancy](web-and-proxy-redundancy.md)
-* [Web Application and Database Redundancy](web-application-and-database-redundancy.md)
-* [Network Privacy](network-privacy.md)
-* [Federated Identities](federated-identities.md)
-* [Windows Admin Center](windows-admin-center.md)
-* [Authentication Protocols- Kerberos](authentication-protocols-kerberos.md)
-* [SELinux](selinux.md)
-* [AppLocker and Tripwire](applocker-and-tripwire.md)
-* [Ransomware and Mitigation](ransomware-and-mitigation.md)
+* [ITS493: Advanced Ethical Hacking Internship](README.md)
+* [Target 1: bios.shire.org](target-1-bios.shire.org.md)
+* [Target 2: bree.shire.org](target-2-bree.shire.org.md)
+* [Week 2: File Inclusion and Vulnerability Scanning](week-2-file-inclusion-and-vulnerability-scanning.md)
+* [Target 3: bifur.shire.org](target-3-bifur.shire.org.md)
