@@ -10,6 +10,6 @@
 
 ## Lecture and Activity Notes
 
-* [File Inclusion and Vulnerability Scanning](week-2-file-inclusion-and-vulnerability-scanning.md)
+* [File Inclusion and Vulnerability Scanning](lecture-and-activity-notes/file-inclusion-and-vulnerability-scanning.md)
 * [Port Tunneling](lecture-and-activity-notes/port-tunneling.md)
 * [Buffer Overflow](lecture-and-activity-notes/buffer-overflow.md)
