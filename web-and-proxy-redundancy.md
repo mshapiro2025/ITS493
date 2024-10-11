@@ -1,2 +1,0 @@
-# Web and Proxy Redundancy
-
