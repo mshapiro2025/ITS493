@@ -1,2 +1,0 @@
-# Windows Admin Center
-
